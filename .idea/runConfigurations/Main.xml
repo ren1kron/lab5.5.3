@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+    <envs>
+      <env name="lab5" value="$PROJECT_DIR$/Workers.csv" />
+    </envs>
+    <option name="envFilePaths">
+      <option value="$PROJECT_DIR$/Workers.csv" />
+    </option>
+    <option name="MAIN_CLASS_NAME" value="Main" />
+    <module name="lab5.5.2" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
